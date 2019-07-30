@@ -1,0 +1,6 @@
+Working with cookies
+
+Print the form with the list and values: “Red”, “Green”, “Blue”.
+When you select the appropriate color in the user's cookie, the selected color value should be saved.
+Immediately after the selection, as well as without selection, if there is a corresponding cookie, a certain background color should be set.
+Make sure the background is set and saved.
